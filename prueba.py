@@ -1,10 +1,9 @@
-def palindromo(palabra)->str:
+def palindromo(palabra:str)->bool:
     if palabra == palabra[-1::-1]:
         return False
     else:
         return True
        
-
 def main ()->None:
     print('Ingrese una palabra que sea un palindromo')
     init = True
@@ -13,5 +12,6 @@ def main ()->None:
         while not palabra.isalpha():
             palabra = input('ERR!!! Ingrese de nuevo la palabra: ')
         init = palindromo(palabra)
-    print(f'{palabra} es un palindromo')
+    print(f'La palabra -{palabra}- es un palindromo')
+
 main()
