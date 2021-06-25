@@ -1,0 +1,35 @@
+commit 6190b119e900444e7a179e66cb804d0c66d7703f
+Author: molinaangeldavid <molina.angeldavid@gmail.com>
+Date:   Fri Jun 25 16:49:39 2021 -0300
+
+    modifico log commit
+
+commit 280535011ac5c60700e428086a01e970d1f5e7e5
+Author: molinaangeldavid <molina.angeldavid@gmail.com>
+Date:   Fri Jun 25 16:36:17 2021 -0300
+
+    Agrego programa palindromo
+
+commit ba2cf787cf3ce0db3f3dd8b7587e84cdf597b5fa
+Author: molinaangeldavid <molina.angeldavid@gmail.com>
+Date:   Fri Jun 25 16:09:51 2021 -0300
+
+    Cambios en archivo prueba
+
+commit f1d0f7a8d35dcbf9ee4308c316e8aa39b01c4e3c
+Author: molinaangeldavid <molina.angeldavid@gmail.com>
+Date:   Fri Jun 25 16:05:15 2021 -0300
+
+    nuevo cambio
+
+commit fc3871f63e3950d9bd9dedd0f787c670c5eaa8c8
+Author: molinaangeldavid <molina.angeldavid@gmail.com>
+Date:   Fri Jun 25 16:02:31 2021 -0300
+
+    Modifico commit.txt
+
+commit cc313970b1d29f06fb15efdb0a2bb68763f8e932
+Author: molinaangeldavid <molina.angeldavid@gmail.com>
+Date:   Fri Jun 25 16:00:22 2021 -0300
+
+    Agrego un archivo de prueba
