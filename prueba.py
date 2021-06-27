@@ -1,3 +1,6 @@
+'''
+Ejercicio de palindromo. Una palabra puede leerse de principio a final y viceversa y tendra la misma palabra
+'''
 def palindromo(palabra:str)->bool:
     if palabra == palabra[-1::-1]:
         return False
