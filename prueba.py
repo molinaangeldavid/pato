@@ -5,6 +5,7 @@ def palindromo(palabra:str)->bool:
         return True
        
 def main ()->None:
+    print('----------Binevenido a palidrometest----------')
     print('Ingrese una palabra que sea un palindromo')
     init = True
     while init == True:
@@ -13,5 +14,6 @@ def main ()->None:
             palabra = input('ERR!!! Ingrese de nuevo la palabra: ')
         init = palindromo(palabra)
     print(f'La palabra -{palabra}- es un palindromo')
+
 
 main()
